@@ -1,0 +1,9 @@
+[submodule "from-scratch-ml-preprocessing"]
+	path = from-scratch-ml-preprocessing
+	url = https://github.com/Fidan6557/from-scratch-ml-preprocessing.git
+[submodule "supervised-learning"]
+	path = supervised-learning
+	url = https://github.com/Fidan6557/supervised-learning-from-scratch.git
+[submodule "knn-from-scratch-titanic"]
+	path = knn-from-scratch-titanic
+	url = https://github.com/Fidan6557/knn-from-scratch-titanic.git
